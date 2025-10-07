@@ -1,0 +1,17 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+bundle/
+vendor/bundle
+.gems/
+
+node_modules/
+yarn-error.log
+
+.DS_Store
+*.sqp
+
+.env
+.env.local
